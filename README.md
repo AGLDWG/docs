@@ -5,5 +5,7 @@ The documents:
 
 * [Terms of Reference](ToR.md)
    * of the Working Group
+   * [original PDF](ToR.pdf)
 * [Memorandum of Understanding](MoU.md)
     * about the management of the `linked.data.gov.au` domain name
+    * [original PDF](MoU.pdf)

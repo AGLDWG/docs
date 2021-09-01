@@ -1,204 +1,166 @@
 # Memorandum of Understanding
 
 > ### Document Status
-> _This is a draft of the next version of the [Australian Government Linked Data Working Group](https://www.linked.data.gov.au/)'s Memorandum of Understanding (MoU) about the `linked.data.gov.au` domain name. This document must be considered as a draft until this notice has been removed._
+>
+> _This is a draft of the next version of the [Australian Government Linked Data Working Group](https://www.linked.data.gov.au/)'s Memorandum of Understanding (MoU) about the Internet domain `linked.data.gov.au`. This document must be considered as a draft until this notice has been removed._
 >
 > _For the current MoU, please see https://www.linked.data.gov.au._
+>
+> ### Major changes since the previous version
+> Change | Description
+> --- | ---
+> Parties | References to specific Parties to the MoU have been replaced with references to roles. Specific parties will be listed in the _Schedule of Parties_
+> Parties, who | Who may become a _signatory organisations_ added
+> Details | Added _Details_ table before Section 1.
+> Purpose | Section 1. _Purpose_ added
+> Background | Background extended with more Linked Data & AGLDWG information, including a History of the AGLDWG that indicates why domain names are important to it 
+> Obligations | Obligations on Parties itemised in an Onbligations section
+> ToR alignment | terms aligned with the AGLDWG ToR
 
-Between the
+Detail | Value
+--- | ---
+Issued | 2021-09-xx
+Modified | 2021-09-01
+Identifier | https://github.com/AGLDWG/docs/blob/master/ToR.md
 
-### Digital Transformation Agency
 
-_EDITING NOTE_: generalise this to role, not specific org
+## 1. Purpose
 
-and
+The purpose of this MoU is to ensure that the Internet domain `linked.data.gov.au` may be used for Linked Data purposes by Australian govenrment agencies and other Australian organisations with certainty. 
 
-_EDITING NOTE_: "signatories to this MoU"
+Certainty regarding Internet domains for Linked Data operational purposes requires that the domain will not cease to resolve and that Domain Name System (DNS) entries and domain redirects established for it are not altered without dependent systems being able to cope with the alterations.
 
-### Australian Bureau of Statistics
 
-### Australian National University
+## 2. Parties
 
-### Australian Taxation Office
+### 2.1
 
-### Bureau of Meteorology
+The parties to this Memorandum of Understanding are:
 
-### Commonwealth Scientific Industrial Research Organisation
+1. the organisation responsible for the technical maintenance of the `data.gov.au` Internet domain name and, within that, the `linked.data.gov.au` subdomain;
+2. Australian government organisations using the `linked.data.gov.au` for Linked Data purposes.
 
-### Department of Finance
+The first is hereafter refered to as _domain maintenance organisation_ and the latters as _signatory organisations_.
 
-### Department of Human Services
+### 2.2
 
-### Department of Prime Minister and Cabinet
+_**NOTE**: This section attempts to interpret valid signatory organisations by the impact of their accession on the other MoU Parties, not by particular properties of those organisations in isolation._
 
-### Digital Transformation Agency
+_The intention is to allow MoU Parties to determine who may sign the MoU, rather than conditions specified in the MoU, other than this conditions (Party determination)._
 
-### Geoscience Australia
+Organisations that may become _signatory organisations_ are organisations that may be accessioned without altering the MoU conditions for the _domain maintenance organisation_ and existing _signatory organisations_.
 
-### National Archives of Australia
 
-As represented by their participants in the Australian Government Linked Data Working Group
+## 3. Establishment of MoU
 
-This Memorandum of Understanding (MoU) is made this ____ day of ____ 2017
+This Memorandum of Understanding (MoU) is made this ____ day of ____ 2021
 
 Between
 
-The _Digital Transformation Agency_, as represented by their Domain Name Section
+the _domain maintenance organisation_, as represented by their nominated _representative_
 
 and
 
-the Australian Bureau of Statistics, the Australian National University, the Bureau of
-Meteorology, the Commonwealth Scientific Industrial Research Organisation, the
-Department of Finance, the Department of Human Services, Geoscience Australia and the
-National Archives of Australia (the other participants to this MoU), as represented by their
-participants in the Australian Government Linked Data Working Group.
+the _signatory organisations_, as represented by their nominated _representatives_.
 
-## 1. Purpose
-The purpose of this MoU is to ensure that any changes to the Domain Name System (DNS)
-records for the `linked.data.gov.au` domain name involves a consultative process
-between the Digital Transformation Agency, who technically and authoritatively manages the
-DNS records, and the other participants in this MoU via the Australian Government Linked
-Data Working Group (AGLDWG).
-
-This will be achieved by:
-
-First, any potential DNS changes initiated by the Digital Transformation Agency or requested
-by a 3rd party, including other participants in this MoU, be communicated to the participants
-of this MoU via AGLDWG communication channels (email list) who will then have an
-opportunity to reflect on possible implications of the change for their purposes.
-
-Second, the participants to this MoU will then have the opportunity to raise concerns with the
-Digital Transformation Agency, if any and seek an amicable resolution.
-
-## 2. Background
-The reason for this is MoU is that changes to the domain and subdomain DNS records for
-data.gov.au can have large impacts on the operating of Internet-based systems that rely the on
-long-term stability of those DNS records.
-
-Currently AGLDWG members rely on several data.gov.au subdomains to redirect web
-requests from long-term persistent web locations (PIDs) to web resource delivery systems.
-Current reliance, as of February 2018 is on:
-
-_EDITING NOTE_: remove old domains
-
-    linked.data.gov.au
-    environment.data.gov.au
-    governance.data.gov.au
-    lab.environment.data.gov.au
-    linked.data.gov.au
-    transport.data.gov.au
-    reference.data.gov.au
-
-Future reliance is to be placed on the subdomain `linked.data.gov.au` and subsubdomains
-of it only:
-
-    linked.data.gov.au – the current AGLDWG website
-    *. linked.data.gov.au – multiple AGIFT-based sub-subdomains of linked.data.gov.au
-
-This is to ensure that other subdomains of data.gov.au that the data.gov.au team relies on
-DNS records for, for example data.gov.au & search.data.gov.au are isolated.
-
-Current, informal, arrangements for the AGLDWG’s use of subdomains is arranged by the
-Digital Transformation Agency’s Domain Name Management section who delegate
-*.data.gov.au to web servers within the AGLDWG’s control except for specific records for
-data.gov.au, search.data.gov.au & blog.data.gov.au. This allows the AGLDWG to manage all
-subdomains of data.gov.au not explicitly managed with individual DNS records, as
-data.gov.au and search.data.gov.au are. This will change with the delegation of
-linked.data.gov.au to AGLDWG’s control only.
-
-## 3. Legal status of this MoU
-
-_EDITING NOTE_: up to legal advice
-
-The participants in this MoU do not intend to, nor do they have the authority to, create any
-legally binding relationship or obligations by entering in to this MoU.
-
-## 4. Duration of this MoU
-
-_EDITING NOTE_: up to legal advice
-
-This MoU has effect for a period of five years from the date of its execution unless earlier
-terminated or extended by participants in accordance with Section 11.
-
-## 5. Participant Representatives
-The Digital Transformation Agency shall be represented by their senior executive responsible
-for their Domain Name Management section or a nominee of that person.
-Other participants to this MoU shall be represented by their members of the AGLDWG.
-
-## 6. Cooperation
-The participants will actively maintain a cooperative relationship in order to pre-empt issues
-for any other participant resulting from DNS planned or actual changes.
-
-## 7. Recognition
-The Digital Transformation Agency recognises the AGLDWG as an unofficial, yet important,
-government community of practice that promotes and represents a series of federal
-Government entities who seek to implement and use Linked Data technologies for the
-betterment of Australian Government data sharing via the Internet.
-
-The Digital Transformation Agency also recognises the delegates of the other participants to
-the AGLDWG as representing the Linked Data interests of those other participants.
-
-The other participants recognise the Digital Transformation Agency as the current and correct
-_de facto_ and _de jure_ manager of the data.gov.au domain name and its DNS records.
-The other participants also recognise the delegates of all participants to the AGLDWG as
-representing those participants Linked Data interests.
-
-The other participants also recognise the Department of Finance’s previous, long-term and
-sustained interest in Linked Data technologies and the AGLDWG and previous DNS support.
-
-## 8. Digital Transformation Agency Undertaking
-The Digital Transformation Agency will:
-
-Communicate any potential DNS changes initiated by the Digital Transformation Agency or
-requested by a 3rd party, including other participants in this MoU, be to the other participants
-of this MoU via AGLDWG communication channels (email list) who will then have an
-opportunity to reflect on possible implications of the change for their purposes.
-
-Hear reasonable requests from other participants in this MoU, via AGLDWG communication
-channels for alterations to potential DNS changes if the potential changes are thought to
-cause problems for the other participants’ systems.
-
-## 9. Other participants undertakings
-The other participants to this MoU will:
-
-Communicate concerns about any potential or actual DNS changes to both the Digital
-Transformation Agency and one another via AGLDWG communication channels.
-
-## 10. Joint undertakings
-Both the Digital Transformation Agency and the other participants will:
-
-Work in good faith with the other participants to resolve any potentially problematic changes
-to data.gov.au DNS records.
-
-## 11. Variation & Termination
-This MoU may be varied or terminated by either the Digital Transformation Agency or their
-other participants at any time and any such variation or termination shall be set out in writing
-and signed by both the Digital Transformation Agency and either all of the other participants
-or the AGLDWG on their behalf. Notification of variation or termination shall also be given
-to AGLDWG members via AGLDWG communication channels.
-
-## 12. Dispute resolution
-All participants to this MoU agree to use reasonable efforts to resolve by negotiation any
-problems that arise among them (disputes).
-
-If disputes are not able to be resolved by negotiation of participants’ representatives, the
-dispute shall be raised to SES-level APS officers representing the participants. This is to
-ensure that difficult issues are dealt with at an appropriate level of seniority.
-
-## 13. Record keeping
-The participants will document the administration of this MoU in writing, likely email
-communication.
-
-### Signing
-
-_Each party to this MoU has signed individually on a separate page and which are now all
-attached below._
+The specific parties to this MoU are listed in [Schedule of Parties](#12-schedule-of-parties).
 
 
-_**Schedule of signatures**_
+## 4. Background
+
+### 4.1	Linked Data
+
+The term "Linked Data" refers to a set of practices for publishing and linking structured data on the Web. Data that is Linked Data is linked to other data and can in turn be linked to from other data. It is also data that is published in a machine-readable way, meaning all terms used are explicitly defined both in formats and meaning. 
+
+The term "Linked Data" is differentiated from other forms of data linkage by the use of title case (capital "L" and capital "D").
+
+### 4.2 The Australian Government Linked Data Working Group
+
+This Australian Government Linked Data Working Group (AGLDWG) that was established in 2012 to meet the Linked Data challenges facing the Australian government. It continues to operate still and is the coordinating party of this MoU.
+
+The AGLDWG is an informally constituted organisation within Australian Government: it is a voluntary working group with no formal departmental sponsor. Nevertheless it has been, and continues to be, influential within Government, as measured by references to the AGLDWG's activities and the inplementations of its recommendations.
+
+The AGLDWG has no powers to make inter-departmental or other arrangements and thus relies on its member organisations, as formal APS and non-APS organisations, to make arrangements between themselves regarding Linked Data matters.
+
+### 4.3	Linked Data and Internet domains
+
+Linked Data relies on Internet domains for data identification and discovery, thus for Linked Data to operate well over long periods of time, the Internet domains used must operate persist and operate consistently.
+
+In 2010, the Australian government establised the `data.gov.au` Internet domain to be used for cross-departmental data purposes. The main purpose then, as now, was as the "central source of Australian open government data" - a data catalogue.
+
+In 2012, member organisations of the AGLDWG started to use a various subdomains of the `data.gov.au` for Linked Data purposes, in particular:
+
+* `lab.environment.data.gov.au` - for a Linked Data version of a climate dataset
+* `environment.data.gov.au` - for multiple environmental datasets and models
+
+In 2015, the AGLDWG implemented an _IRI Redirection Service_, which is a system that allows for wide use of the `linked.data.gov.au` Internet subdomain for technical Linked Data purposes. This system, which is now a core Australian Government Linked Data infrastruture, continues to operate.
+
+As of 2021, there are hundreds of datasets, models, vocabularies and other resources dependent on the continued operation of `linked.data.gov.au` and several resources still dependent on `environment.data.gov.au` published by multiple Federal and State agencies.
+
+## 5. Obligations
+
+To ensure that the Internet domain `linked.data.gov.au` may be used for Linked Data purposes by Australian govenrment agencies and other Australian organisations with certainty, the following obligations are agreed to by the Parties to this MoU:
+
+### 5.1
+
+Any potential DNS changes initiated by the _domain maintenance organisation_ or requested by a 3rd party, including _signatory organisations_, will be communicated by the _domain maintenance organisation_ to the _signatory organisations_ to provide them with an opportunity to reflect on possible implications of the change.
+
+### 5.2
+
+_Signatory organisations_ will have the opportunity to raise any concerns with proposed changes to `linked.data.gov.au` with the _domain maintenance organisation_, and attempt to seek an amicable resolution.
+
+### 5.3
+
+Parties to this MoU will actively maintain a cooperative relationship in order to pre-empt issues for any other Party resulting from planned or actual changes to `linked.data.gov.au`.
 
 
-_EDITING NOTE_: who can sign?
-    * check with DTA
-    * get legal advice 2x ANU + Finance
-    * WG aims is as unrestrictive as possible
+## 6. Legal status of this MoU
+
+_**NOTE**: This section used to read as below however the AGLDWG is obtaining legal advice regarding accession and deaccession of Parties to this MoU that will substantially alter this section._
+
+_The renewed indention is that this MoU will sound for APS and non-APS organisations in whatever way they interpret inter-organisational MoUs._
+
+The Parties in this MoU do not intend to, nor do they have the authority to, create any legally binding relationship or obligations by being party to this MoU.
+
+
+## 7. Duration of this MoU
+
+_**NOTE**: This section used to read as below however the AGLDWG is obtaining legal advice regarding accession and deaccession of Parties to this MoU that will substantially alter this section._
+
+_The renewed indention is that this MoU will be enduring for as long as `linked.data.gov.au` exists as an Internet domain name._
+
+This MoU has effect for a period of five years from the date of its execution unless earlier terminated or extended by Parties in accordance with Section 11.
+
+
+## 8. Party Representatives
+
+The _domain maintenance organisation_ and _signatory organisations_ shall be represented by their chosen senior executives who will sign this MoU on the Party's behalf.
+
+
+## 9. Recognition of the AGLDWG
+
+The Parties to this MoU recognise the AGLDWG as an unofficial, yet important, government community of practice that promotes and represents a series of Government organisations who seek to implement and use Linked Data technologies for the betterment of Australian Government data sharing via the Internet. the Parties will attempt to use the AGLDWG as the discussion forum for Linked Data and `linked.data.gov.au`-remated matters.
+
+
+## 10. Variation & Termination
+
+_**NOTE**: this section used to read as below however the AGLDWG is obtaining legal advice regarding accession and deaccession of Parties to this MoU that will substantially alter this section._
+
+_The renewed indention is that this MoU not eb able to be invalidated by the accession or deaccession of new signatory organisations and that it will also be resiliant to changes in the domain maintenance organisation._
+
+This MoU may be varied or terminated by either the _domain maintenance organisation_ or _signatory organisations_ at any time and any such variation or termination shall be set out in writing and signed by both the Digital Transformation Agency and either all of the other Parties or the AGLDWG on their behalf. Notification of variation or termination shall also be given to AGLDWG members via AGLDWG communication channels.
+
+
+## 11. Dispute resolution
+
+All Parties to this MoU agree to use reasonable efforts to resolve, by negotiation, any problems that arise among them.
+
+If problems are not able to be resolved by negotiation of Parties’ representatives, the dispute shall be raised to SES-level APS officers representing the Parties. This is to ensure that difficult issues are dealt with at an appropriate level of seniority.
+
+
+## 12. Schedule of Parties
+
+_**NOTE**: this section used to read as below however the AGLDWG is obtaining legal advice regarding how Parties should be listed._
+
+_Each Party to this MoU has signed individually on a separate page and which are now all attached below._
+

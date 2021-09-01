@@ -16,6 +16,9 @@
 > Purpose | Section 1. _Purpose_ added
 > Numbering | Numbering for all paragraphs added
 > Term harminisation | Harmonised the terms AGLDWG and Linked Data throughout document
+> History | History of the AGLDWG added to 
+> ToRs | ToRs aligned with Objectives
+> Stucture | WG structure, meetings & communications separated
 
 Detail | Value
 --- | ---
@@ -37,7 +40,7 @@ The term "Linked Data" is differentiated from other forms of data linkage by the
 
 ### 2.2 The Working Group
 
-This AGLDWG aims to achieve its [Objectives](#objectives) by operating under its [Terms of Reference](#terms-of-reference). 
+This AGLDWG aims to achieve its [Objectives](#3-objectives) by operating under its [Terms of Reference](#4-terms-of-reference). 
 
 The AGLDWG is informally constituted in Australian Government - it is a voluntary working group with no formal departmental sponsor - nevertheless it has been, and continues to be, influential within Government, as measured by references to the AGLDWG's activities and the inplementations of its recommendations.
 
@@ -45,13 +48,15 @@ The AGLDWG is informally constituted in Australian Government - it is a voluntar
 
 The Australian Government Linked Data Working Group was established in August 2012 to meet the Linked Data challenges facing the Australian government. At the time, Linked Data was a technology seeing new adoption in governments such as that of the UK, the USA and various Eurpoean countries.
 
-The AGLDWG originally consisted of mainly scientific agencies (bureau of Meteorology, CSIRO, Geoscience Australia etc.) and soem data agencies (the then Department of Communications) and, at one time, the AGLDWG was formally constituted under the Department of Communications. 
+The AGLDWG originally consisted of mainly scientific agencies (bureau of Meteorology, CSIRO, Geoscience Australia etc.) and some data agencies (the then Department of Communications) and, at one time, the AGLDWG was formally constituted under the Department of Communications. 
 
-With changing Departmental responsibilities, the AGLDWG ceased to be formally constituted and also became more involved with the Digital Transformation Agency (DTA) which, in about 2017, assumed management of many government Internet domain names, in particular `data.gov.au`. 
+From 2013, member organisations of the AGLDWG started using subomains of the Internet domain `data.gov.au` for Linked Data data and systems.
 
-In 2016, the AGLDWG implemented an _IRI Redirection Service_, that is a system which allows for the use of the `linked.data.gov.au` Internet subdomain for technical Linked Data purposes. This system, which is now a core Australian Government Linked Data infrastruture, continues to operate.
+In 2015, the AGLDWG implemented an _IRI Redirection Service_, which is a system that allows for wide use of the `linked.data.gov.au` Internet subdomain for technical Linked Data purposes. This system, which is now a core Australian Government Linked Data infrastruture, continues to operate.
 
-The AGLDWG established a Memorandum of Understanding (MoU) in 2018 that called upon the DTA to manage the `linked.data.gov.au` subdomain in accordance with the persistent domain name requirements of good Linked Data on behalf of the other MoU signatories. The other signatories were then all members of the AGLDWG and consisted of:
+With changing Departmental responsibilities, the AGLDWG ceased to be formally constituted and also became more involved with the Digital Transformation Agency (DTA) which, in about 2017, assumed management of many government Internet domains, in particular `data.gov.au`. 
+
+The AGLDWG established a Memorandum of Understanding (MoU) in 2018 that called upon the DTA to manage the `linked.data.gov.au` subdomain in accordance with the persistent Internet domain requirements of good Linked Data on behalf of the other MoU signatories. The other signatories were then all members of the AGLDWG and consisted of:
 
 * Bureau of Meteorology
 * Commonwealth Scientific Industrial Research Organisation
@@ -157,7 +162,6 @@ Representatives of organisations who are _Working Group Member Organisations_ co
 An organisations that signs the MoU is considered to be a _Working Group Signatory Organisation_ with the ability to vote on AGLDWG matters with one vote per organisation. Voting shall be used to determine _Office Bearers_ and may also be used to decide other AGLDWG issues. Counts of _Working Group Signatory Organisations_, as represented by at least one _Representative_, will be used to determine meeting quora.
 
 Individuals - persons unafilliated with any organisation - may attend AGLDWG meetings and participate in AGLDWG activities.
-
 
 ### 5.3 Governance
 

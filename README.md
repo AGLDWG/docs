@@ -14,8 +14,8 @@ The documents, in pure text and original PDF forms:
 
 The next generation of AGLDWG documents are:
 
-* [Terms of Reference v2](ToR.md)
-* [Memorandum of Understanding v2](MoU.md)
+* [Terms of Reference v2](ToRv2.md)
+* [Memorandum of Understanding v2](MoUv2.md)
 
 _**NOTE**: these next generation documents are currently still being revised (until this notice is removed) so these "v2" versions are drafts only._
 

@@ -104,7 +104,7 @@ Liaise with equivalent groups internationally to realise global benefits from Li
 
 ## 4. Terms of Reference 
 
-_EDITING NOTE_: ensure the ToR cover all our Objectives and the actual activities we are realyl doing.
+_EDITING NOTE_: ensure the ToR cover all our Objectives and the actual activities we are really doing.
 
 The AGLDWG will work to achieve its Objectives by doing the following:
 

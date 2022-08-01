@@ -1,4 +1,5 @@
 # Australian Government Linked Data Working Group
+
 ## Working Group Terms of Reference
 
 > ### Document Status
@@ -22,8 +23,9 @@
 
 Detail | Value
 --- | ---
-Issued | 2021-09-xx
-Modified | 2021-09-01
+Created | 2021-09-01
+Issued | xxxx-xx-xx
+Modified | 2022-08-01
 Identifier | https://github.com/AGLDWG/docs/blob/master/ToR.md
 
 ## 1. Purpose

@@ -19,6 +19,12 @@ The next generation of AGLDWG documents are:
 
 _**NOTE**: these next generation documents are currently still being revised (until this notice is removed) so these "v2" versions are drafts only._
 
+### PID Guidelines
+
+The Persistent Identifier Guidelines of the WG are not stored here but in <https://github.com/AGLDWG/guidelines> and the current version is online at:
+
+* <https://www.linked.data.gov.au/guidelines>
+
 ## More information
 
 Please contact the Working Group directly for more information via

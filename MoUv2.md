@@ -1,5 +1,7 @@
 # Memorandum of Understanding
 
+## Regarding the linked.data.gov.au domain name
+
 > ### Document Status
 >
 > _This is a draft of the next version of the [Australian Government Linked Data Working Group](https://www.linked.data.gov.au/)'s Memorandum of Understanding (MoU) about the Internet domain `linked.data.gov.au`. This document must be considered as a draft until this notice has been removed._

@@ -1,0 +1,107 @@
+== Schedule 2 Accession Documentation
+
+=== PARTIES
+
+**THE AUSTRALIAN NATIONAL UNIVERSITY (ABN 52 234 063 906)** an educational and research institute and body corporate pursuant to the Australian National University Act 1991 (Cth), as represented by the College of Asia and the Pacific, of Acton in the Australian Capital Territory, 2601 (**University**)
+
+AND
+
+**[INSERT OTHER PARTY NAME] ABN (insert ABN)** of [insert address] (**Acceding Party**)
+
+=== BACKGROUND
+
+A. The University, the Domain Maintenance Organisation and the other Signatory Organisations entered into an MOU regarding the Australian Linked Data Working Group (the **MOU**).
+
+B. The Acceding Party wishes to become a signatory to the MOU as a new Signatory Organisation.
+
+=== AGREED TERMS
+
+1 **Accession to the MOU**
+
+1.1	The Acceding Party confirms that it has been supplied with a copy of the MOU and intends to observe the provisions in the MOU so that the Acceding Party is deemed, from the date of execution of this agreement, to be a party to the MOU and a Signatory Organisation.
+
+2 **Effect of this Documentation**
+
+2.1	This Accession Documentation is not intended to be legally binding.
+
+=== SIGNED
+
+
+for and on behalf of the **The Australian National University ABN 52 234 063 906** by an authorised officer in the presence of:
+
+[source]
+----
+_________________________________
+----
+(Signature of authorised officer)  
+
+----
+_________________________________
+----
+(Printed name of authorised officer)  
+
+----
+_________________________________
+----
+(Date)  
+
+
+
+----
+_________________________________
+----
+(Signature of witness)
+
+----
+_________________________________
+----
+(Printed name of witness)
+
+----
+_________________________________
+----
+(Date)  
+
+
+=== EXECUTED AS A DEED 
+
+for and on behalf of the **[Entity]** by an authorised officer in the presence of:
+
+[.signature]
+----
+
+_________________________________
+----
+(Signature of authorised officer)  
+
+----
+
+_________________________________
+----
+(Printed name of authorised officer)  
+
+----
+
+_________________________________
+----
+(Date)  
+
+
+
+----
+
+_________________________________
+----
+(Signature of witness)
+
+----
+
+_________________________________
+----
+(Printed name of witness)
+
+----
+
+_________________________________
+----
+(Date)  

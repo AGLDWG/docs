@@ -1,0 +1,36 @@
+== Schedule 1 Signatory Organisations
+
+|===
+| Name of Signatory Organisation | Details of Signatory Organisation
+
+| Australian Bureau of Statistics
+|
+
+| Australian National University
+| Acton, ACT 2601, Australia
+
+| Australian Bureau of Meteorology
+|
+
+| Commonwealth Scientific & Industrial Research Organisation
+|
+
+| Department of Climate Change, Energy, the Environment and Water
+| 
+
+| Department of Finance
+| 
+
+| Geological Survey of Queensland
+| 
+
+| Geological Survey of South Australia
+| 
+
+| Geoscience Australia
+| 
+
+| National Archives of Australia
+| 
+
+|===

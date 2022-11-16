@@ -1,7 +1,7 @@
 ![](agldwg-logo-ochre-150.png)
 
 # AGLDWG Documents
-This repository holds the important documents of the [Australian Government Linked Data Worling Group (AGLDWG)](https://www.linked.data.gov.au/).
+This repository holds the important documents of the [Australian Government Linked Data Working Group (AGLDWG)](https://www.linked.data.gov.au/).
 
 The documents, in pure text and original PDF forms:
 

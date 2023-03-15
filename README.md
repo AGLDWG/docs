@@ -1,7 +1,7 @@
 ![](agldwg-logo-ochre-150.png)
 
 # AGLDWG Documents
-This repository holds the important documents of the [Australian Government Linked Data Worling Group (AGLDWG)](https://www.linked.data.gov.au/).
+This repository holds the important documents of the [Australian Government Linked Data Working Group (AGLDWG)](https://www.linked.data.gov.au/).
 
 The documents, in pure text and original PDF forms:
 
@@ -18,6 +18,12 @@ The next generation of AGLDWG documents are:
 * [Memorandum of Understanding v2](MoUv2.md)
 
 _**NOTE**: these next generation documents are currently still being revised (until this notice is removed) so these "v2" versions are drafts only._
+
+### PID Guidelines
+
+The Persistent Identifier Guidelines of the WG are not stored here but in <https://github.com/AGLDWG/guidelines> and the current version is online at:
+
+* <https://www.linked.data.gov.au/guidelines>
 
 ## More information
 

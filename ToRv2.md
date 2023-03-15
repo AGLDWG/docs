@@ -1,4 +1,5 @@
 # Australian Government Linked Data Working Group
+
 ## Working Group Terms of Reference
 
 > ### Document Status
@@ -22,8 +23,9 @@
 
 Detail | Value
 --- | ---
-Issued | 2021-09-xx
-Modified | 2021-09-01
+Created | 2021-09-01
+Issued | xxxx-xx-xx
+Modified | 2022-08-01
 Identifier | https://github.com/AGLDWG/docs/blob/master/ToR.md
 
 ## 1. Purpose
@@ -104,8 +106,6 @@ Liaise with equivalent groups internationally to realise global benefits from Li
 
 ## 4. Terms of Reference 
 
-_EDITING NOTE_: ensure the ToR cover all our Objectives and the actual activities we are really doing.
-
 The AGLDWG will work to achieve its Objectives by doing the following:
 
 ### 4.1	
@@ -155,13 +155,13 @@ Co-chairs are determined by a AGLDWG vote.
 
 ### 5.2 Members
 
-Organisations may join the AGLDWG as a _Working Group Member Organisation_ if they can provide representatitves that faithfully represent their interests to attend AGLDWG meetings.
+Organisations will be considered an AGLDWG as a _Working Group Member Organisation_ if they sign the [MoU regarding the linked.data.gov.au persistent doemain name](https://github.com/AGLDWG/docs/blob/master/MoU.md).
 
-Representatives of organisations who are _Working Group Member Organisations_ constitute the ordinary members of the AGLDWG and attend meetings, participate in AGLDWG discussions (mailing lists etc.) and carry our AGLDWG business. For the purposes of quorum and voting, a AGLDWG Member Organisation must have at least one _Representative_ present in a meeting.
+Organisations whose do not sign the MoU, may be considered Observers. Individuals - persons unafilliated with any organisation - may also attend AGLDWG meetings as Observers.
 
-An organisations that signs the MoU is considered to be a _Working Group Signatory Organisation_ with the ability to vote on AGLDWG matters with one vote per organisation. Voting shall be used to determine _Office Bearers_ and may also be used to decide other AGLDWG issues. Counts of _Working Group Signatory Organisations_, as represented by at least one _Representative_, will be used to determine meeting quora.
+Representatives of Member and Observer organisations, and individuals, may attend AGLDWG meetings, participate in AGLDWG discussions (mailing lists etc.) and carry out AGLDWG business. 
 
-Individuals - persons unafilliated with any organisation - may attend AGLDWG meetings and participate in AGLDWG activities.
+Only AGLDWG Member organisation may have votes counted, not Observers, and Member organisations must have at least one _Representative_ present in a meeting to vote on their behalf.
 
 ### 5.3 Governance
 

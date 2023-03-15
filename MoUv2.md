@@ -1,5 +1,7 @@
 # Memorandum of Understanding
 
+## Regarding the linked.data.gov.au domain name
+
 > ### Document Status
 >
 > _This is a draft of the next version of the [Australian Government Linked Data Working Group](https://www.linked.data.gov.au/)'s Memorandum of Understanding (MoU) about the Internet domain `linked.data.gov.au`. This document must be considered as a draft until this notice has been removed._
@@ -19,8 +21,9 @@
 
 Detail | Value
 --- | ---
-Issued | 2021-09-xx
-Modified | 2021-09-01
+Created | 2021-09-01
+Issued | xxx-xx-xx
+Modified | 2022-08-01
 Identifier | https://github.com/AGLDWG/docs/blob/master/ToR.md
 
 
@@ -53,7 +56,7 @@ Organisations that may become _signatory organisations_ are organisations that m
 
 ## 3. Establishment of MoU
 
-This Memorandum of Understanding (MoU) is made this ____ day of ____ 2021
+This Memorandum of Understanding (MoU) is made on ____________________
 
 Between
 
@@ -160,7 +163,20 @@ If problems are not able to be resolved by negotiation of Parties’ representat
 
 ## 12. Schedule of Parties
 
-_**NOTE**: this section used to read as below however the AGLDWG is obtaining legal advice regarding how Parties should be listed._
+The _domain maintenance organisation_ party to this MoU is the Australian Bureau of Statistics, since that agency has technical control of the `data.gov.au` domain name and thus all DNS records relating to the AGLDWG's domains.
 
-_Each Party to this MoU has signed individually on a separate page and which are now all attached below._
+**Domain Maintenance Organisation** | **Representative Name** | **Representative Position** | **Representative Signature** | **Signing Date**
+--- | --- | --- | --- | --- 
+Australian Bureau of Statistics | | | | 
+
+The _signatory organisations_ party to this MoU are all Australian government organisations (an level of government) motivated to sign this NoU.
+
+**signatory Organisation** | **Representative Name** | **Representative Position** | **Representative Signature** | **Signing Date**
+--- | --- | --- | --- | --- 
+Australian National University | | | | 
+Australian Bureau of Meteorology | | | | 
+Commonewealth Scientific & Industrial Research Organisation | | | | 
+Department of Finance | | | | 
+Geoscience Australia | | | | 
+National Archives of Australia | | | | 
 

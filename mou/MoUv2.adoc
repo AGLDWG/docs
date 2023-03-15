@@ -1,0 +1,78 @@
+= Memorandum of Understanding
+
+[.text-center]
+*The Australian Government Linked Data Working Group*
+
+== PARTIES
+
+The *Australian Bureau of Statistics* of [insert address] (Domain Maintenance Organisation)
+
+AND
+
+The entities as laid out in Schedule 1 (Signatory Organisations)
+
+== 1 Interpretation
+
+1.1	In this Memorandum of Understanding (*MOU*) the Domain Maintenance Organisation and Signatory Organisations are each referred to as a *Party* and collectively referred to as *the Parties*.
+
+== 2 Purpose of this MOU
+
+2.1	This MOU records the intention of the Parties to work together within the Australian Government Linked Data Working Group (*AGLDWG*) under the AGLDWG’s terms of reference as published from time to time at https://www.linked.data.gov.au.
+
+== 3 The Australian Government Linked Data Working Group (AGLDWG)
+
+3.1	The AGLDWG is an informally constituted working group within the Australian Government.
+
+3.2	Each Party to this Agreement will contribute at least one participant to the AGLDWG.
+
+3.3	The Parties note that the AGLDWG is not a separately constituted body and does not have the power to act independently.  
+
+== 4 Accession of Parties to the MOU
+
+4.1	From time to time, other parties may request to join this MOU, and through it the AGLDWG.
+
+4.2	Any new Party will only become party to this MOU on valid execution of the Accession Documentation by the Australian National University and that Party, substantially in the form set out in Schedule 2.  
+
+== 5 Objectives
+
+5.1	In signing this MOU the Parties acknowledge their shared objectives of:  
+
+5.1.1 participating in the AGLDWG in accordance with AGLDWG's terms of reference (as published from time to time at https://www.linked.data.gov.au) and as the primary discussion forum for Linked Data and `linked.data.gov.au` related matters;
+
+5.1.2 reviewing and considering any potential DNS changes initiated by the Domain Maintenance Organisation or requested by a third party (including Signatory Organisations);
+
+5.1.3 working together to seek amicable resolutions to any concerns raised during the review process in 5.1.2;
+
+5.1.4 maintaining a cooperative relationship and keeping all Parties informed of any likely issues in the future relating to planned or actual changes to `linked.data.gov.au`; and
+
+5.1.5 acting reasonably and in good faith towards each other, noting that disagreements may be escalated to SES-level APS for further discussion if necessary.
+
+== 6 Term
+
+6.1	The parties intend that their cooperation will be carried out for a period of five years from the date of execution of this MOU.
+
+6.2	Notwithstanding clause 6.1, any Party may terminate its involvement in the MOU at any time.
+
+6.3	A Party may request that the MOU be varied at any time.
+
+6.4	Pursuant to a request under clause 6.3, the Parties will first consider and discuss the proposed variations within the AGLDWG. Each participant in the AGLDWGP will then inform their respective organisation of the changes and seek formal approval.
+
+6.5	If all Parties approve the variation then a formal variation agreement will be signed by all Parties.  
+
+== 7 Effect of this MOU
+
+7.1	This MOU outlines the framework of a working relationship between the Parties, and is not intended to be legally binding.
+
+7.2	The Parties may enter into a legally binding agreement if they wish to collaborate on any projects arising out of the AGLDWG.
+
+7.3	This MOU may be signed in any number of counterparts (including electronically signed counterparts) and all such signed counterparts, taken together, shall be deemed to constitute one and the same instrument even though both parties may not have signed each separate counterpart.  
+
+<<<
+include::signed.adoc[]
+
+<<<
+include::schedule_1.adoc[]
+
+<<<
+include::schedule_2.adoc[]
+

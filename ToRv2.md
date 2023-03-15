@@ -16,16 +16,16 @@
 > Details | Added _Details_ table before Section 1.
 > Purpose | Section 1. _Purpose_ added
 > Numbering | Numbering for all paragraphs added
-> Term harminisation | Harmonised the terms AGLDWG and Linked Data throughout document
+> Term harmonisation | Harmonised the terms AGLDWG and Linked Data throughout document
 > History | History of the AGLDWG added to 
 > ToRs | ToRs aligned with Objectives
-> Stucture | WG structure, meetings & communications separated
+> Structure | WG structure, meetings & communications separated
 
 Detail | Value
 --- | ---
 Created | 2021-09-01
 Issued | xxxx-xx-xx
-Modified | 2022-08-01
+Modified | 2022-10-27
 Identifier | https://github.com/AGLDWG/docs/blob/master/ToR.md
 
 ## 1. Purpose
@@ -40,21 +40,23 @@ The term "Linked Data" refers to a set of practices for publishing and linking s
 
 The term "Linked Data" is differentiated from other forms of data linkage by the use of title case (capital "L" and capital "D"). 
 
+Certainty regarding Internet domains for Linked Data operational purposes requires that the domain will not cease to resolve and that Domain Name System (DNS) entries and domain redirects established for it are not altered without dependent systems being able to cope with the alterations.
+
 ### 2.2 The Working Group
 
 This AGLDWG aims to achieve its [Objectives](#3-objectives) by operating under its [Terms of Reference](#4-terms-of-reference). 
 
-The AGLDWG is informally constituted in Australian Government - it is a voluntary working group with no formal departmental sponsor - nevertheless it has been, and continues to be, influential within Government, as measured by references to the AGLDWG's activities and the inplementations of its recommendations.
+The AGLDWG is informally constituted in Australian Government - it is a voluntary working group with no formal departmental sponsor - nevertheless it has been, and continues to be, influential within Government, as measured by references to the AGLDWG's activities and the implementations of its recommendations.
 
 ### 2.3 History of the AGLDWG
 
-The Australian Government Linked Data Working Group was established in August 2012 to meet the Linked Data challenges facing the Australian government. At the time, Linked Data was a technology seeing new adoption in governments such as that of the UK, the USA and various Eurpoean countries.
+The Australian Government Linked Data Working Group was established in August 2012 to meet the Linked Data challenges facing the Australian government. At the time, Linked Data was a technology seeing new adoption in governments such as that of the UK, the USA and various European countries.
 
-The AGLDWG originally consisted of mainly scientific agencies (bureau of Meteorology, CSIRO, Geoscience Australia etc.) and some data agencies (the then Department of Communications) and, at one time, the AGLDWG was formally constituted under the Department of Communications. 
+The AGLDWG originally consisted of mainly scientific agencies (Bureau of Meteorology, CSIRO, Geoscience Australia etc.) and some data agencies (the then Department of Communications) and, at one time, the AGLDWG was formally constituted under the Department of Communications. 
 
-From 2013, member organisations of the AGLDWG started using subomains of the Internet domain `data.gov.au` for Linked Data data and systems.
+From 2013, member organisations of the AGLDWG started using subdomains of the Internet domain `data.gov.au` for Linked Data data and systems.
 
-In 2015, the AGLDWG implemented an _IRI Redirection Service_, which is a system that allows for wide use of the `linked.data.gov.au` Internet subdomain for technical Linked Data purposes. This system, which is now a core Australian Government Linked Data infrastruture, continues to operate.
+In 2015, the AGLDWG implemented an _IRI Redirection Service_, which is a system that allows for wide use of the `linked.data.gov.au` Internet subdomain for technical Linked Data purposes. This system, which is now a core Australian Government Linked Data infrastructure, continues to operate.
 
 With changing Departmental responsibilities, the AGLDWG ceased to be formally constituted and also became more involved with the Digital Transformation Agency (DTA) which, in about 2017, assumed management of many government Internet domains, in particular `data.gov.au`. 
 
@@ -71,17 +73,17 @@ In 2021, the following organisations also signed the MoU:
 * Australian Bureau of Statistics
 * Australian Research Data Commons
 
-In 2019, the AGLDWG established its first Terms of Reference (ToR) document. That document has now been superceded by this document.
+In 2019, the AGLDWG established its first Terms of Reference (ToR) document. That document has now been superseded by this document.
 
-In mid 2021, AGLDWG's existing ToR & MoU documents were found to be insufficiently drafted for non-Australian Public Service agency use, thus a process what initiated to re-issue them. One result of this process is this document. The other is the updated MoU.
+The 2018 MOU has also been updated and re-signed to more accurately reflect the roles and responsibilities of all members.
 
+## 3. Terms of Reference
 
-## 3. Objectives
-The AGLDWG aims to:
+The AGLDWG aims to achieve the following objectives:
 
 ### 3.1
 
-Promote established Linked Data principles for Australia and within Australian government in particular, as openly and transparently as possible.
+Increase the use of established Linked Data principles for Australia and within Australian government. 
 
 ### 3.2	
 
@@ -89,81 +91,58 @@ Establish technical guidance for Australian Government agencies regarding publis
 
 ### 3.3	
 
-Develop governance rules and processes for the effective management of Australian Government Linked Data.
+Encourage and support the use of the Internet domain `linked.data.gov.au` for Linked Data purposes by Australian government agencies and other Australian organisations.
 
-### 3.4	
+### 3.4
 
-Promote and explain Linked Data to Australian data interest groups and communities of practice.
+Develop suggestions for governance rules and processes for the effective management of Australian Government Linked Data.
 
-### 3.5	
+### 3.5
 
-Engender the development of fundamental Linked Data infrastructure and Linked Data implementations.
+Provide a forum for the discussion of Linked Data issues for Australia and Australian government.
 
-### 3.6
+### 3.6	
+
+Promote and explain Linked Data to data interest groups and communities of practice.
+
+### 3.7	
+
+Aid in the development of fundamental Linked Data infrastructure and Linked Data implementations within Australia and provide advice to Government Departments to do so.
+
+### 3.8
 
 Liaise with equivalent groups internationally to realise global benefits from Linked Data.
 
+### 3.9
 
-## 4. Terms of Reference 
-
-The AGLDWG will work to achieve its Objectives by doing the following:
-
-### 4.1	
-
-Promoting the benefits of, and encourage adoption of, Linked Data for publishing Australian government Public Sector Information (PSI) and Open Data.
-
-Promote the benefits of Linked Data for non-open data.
-
-### 4.2	
-
-Developing technical guidance and best practices for the publication of Linked Data by Australian Government agencies.
-
-Developing technical guidance and best practice for the use of Linked Data by non-Government individuals, businesses and organisations.
-
-### 4.3 
-
-Developing governance rules and processes for the effective management of Australian Government Linked Data.
-
-### 4.4	
-
-Collaborating with Australian data interest groups and communities of practice relevant to Linked Data.
-
-### 4.5	
-
-Developing fundamental Linked Data infrastructure and collaborating with other organisations to develop Linked Data implementations.
-
-### 4.6	
-
-Liaising with equivalent groups internationally to realise global benefits from Linked Data.
-
-### 4.7	
-
-Contribute to relevant international working groups and committees (e.g. ISO, OGC, W3C) as appropriate.
+Promote the inclusion of Linked Data principles and practice within data standards.
 
 
-## 5. Working Group Structure
+## 4. Working Group Structure
 
 The AGLDWG will consist of:
 
-### 5.1 Office Bearers
+### 4.1 Office Bearers
 
-The Working Group only has one class of _Office Bearer_: Working Group Co-Chair.
+The AGLDWG only has one class of _Office Bearer_: Co-Chair.
+
+The AGLDWG will elect between 2 and 4 Co-Chairs anually, at the AGLDWG's Annual General Meeting.
 
 Co-chairs are only to be selected from _Representatives_ of _Working Group Signatory Organisations_.
 
-Co-chairs are determined by a AGLDWG vote.
+Co-chairs are determined by a AGLDWG vote whereby candidates nominate in the month leading up to the Annual General Meeting, or during it. Candidates are then elected individually by majority votes to the Co-Chair positions.
 
-### 5.2 Members
+### 4.2 Members
 
-Organisations will be considered an AGLDWG as a _Working Group Member Organisation_ if they sign the [MoU regarding the linked.data.gov.au persistent doemain name](https://github.com/AGLDWG/docs/blob/master/MoU.md).
+Organisations will be considered an AGLDWG as a _Working Group Member Organisation_ if they sign the [MoU regarding the linked.data.gov.au persistent domain name](https://github.com/AGLDWG/docs/blob/master/MoU.md).
 
-Organisations whose do not sign the MoU, may be considered Observers. Individuals - persons unafilliated with any organisation - may also attend AGLDWG meetings as Observers.
+Organisations whose do not sign the MoU, may be considered Observers. Individuals - persons unaffiliated with any organisation - may also attend AGLDWG meetings as Observers.
 
 Representatives of Member and Observer organisations, and individuals, may attend AGLDWG meetings, participate in AGLDWG discussions (mailing lists etc.) and carry out AGLDWG business. 
 
-Only AGLDWG Member organisation may have votes counted, not Observers, and Member organisations must have at least one _Representative_ present in a meeting to vote on their behalf.
+Only a _Working Group Member Organisation_ may have its vote counted, not Observers. Member organisations must have at least one _Representative_ present in a meeting to vote on their behalf. _Working Group Member Organisation_ are allocated only one vote each.
 
-### 5.3 Governance
+### 4.3 Governance
 
 The AGLDWG shall operate under a number of Co-Chairs who are responsible for: 
 
@@ -171,18 +150,21 @@ The AGLDWG shall operate under a number of Co-Chairs who are responsible for:
 * addressing cross-agency issues and conflicts referred to it by AGLDWG Members and recommending corrective action through appropriate negotiation and/or escalation;
 * addressing items of risk and other issues, as referred by the AGLDWG Members, and recommending actions; 
 * monitoring and reviewing the AGLDWG work plan implementation against the ToR on a regular basis; 
-* administrative AGLDWG duties such as admitting new people and organisations to the group, coordinating meetings and maintaining AGLDWG infrastructure and documents.
+* administrative AGLDWG duties coordinating meetings and maintaining AGLDWG infrastructure and documents;
+* recommending new organisations and participants be admitted to the AGLDWG.
 
-## 5.4 Sub-working groups
+The Co-Chairs will engaged with the wider AGLDWG via the mailing list and Monthly Meetings and propose major actions and outputs to them for review. Wider AGLDWG concerns regarding actiosna dn outputs that cannot be resolved through informal means must be voted on at Monthly Meeting.
 
-The AGLDWG shall form subcommittees as needed to address tasks. All subcommittees formed will be anounced to all AGLDWG members via the AGLDWG’s email list.
+## 4.4 Sub-working groups
 
-_NOTE_: under the AGLDWG's previous ToR, formal "Sub Groups" were constituted but this struturing was found to be inflexible.
+The AGLDWG shall form subcommittees as needed to address tasks. All subcommittees formed will be announced to all AGLDWG members via the AGLDWG’s email list.
+
+_NOTE_: under the AGLDWG's previous ToR, formal "Sub Groups" were constituted but this structuring was found to be inflexible.
 
 
-## 6. Working Group Meetings
+## 5. Working Group Meetings
 
-### 6.1	Annual General Meeting
+### 5.1	Annual General Meeting
 	
 There shall be an Annual General Meeting in the first quarter of each financial year where:
 
@@ -191,31 +173,31 @@ There shall be an Annual General Meeting in the first quarter of each financial 
 
 A permanent record of AGM Agenda and Minutes will be maintained by the AGLDWG.
 
-### 6.2 Monthly Meetings
+### 5.2 Monthly Meetings
 
 The AGLDWG will conduct monthly meetings and:
 
-* the full AGLDWG membership and guests will be invited to attend thesey in-person and/or via video/tele-conferences. These will be organised by the Co-Chairs;
+* the full AGLDWG membership and guests will be invited to attend these in-person and/or via video/tele-conferences. These will be organised by the Co-Chairs;
 * notifications for meetings will be sent via the AGLDWG’s email list;
 * permanent records of Monthly Meeting Agenda and Minutes will be maintained by the AGLDWG.
 
 
-## 7. Communications
+## 6. Communications
 
 To ensure transparent and accountable communications, the AGLDWG will:
 
-### 7.1 
+### 6.1 
 
 Use its long established email list for all formal written communication with members. 
 
-### 7.2
+### 6.2
 
 Additionally communicate major business with members through Monthly Meetings and AGMs.
 
-### 7.3
+### 6.3
 
 Maintain a website and attempt to ensure the website reflects current AGLDWG status and activities.
 
-### 7.4
+### 6.4
 
 Make publicly available its major documents, such as this ToR and the MoU. These shall also be linked to from the website.
